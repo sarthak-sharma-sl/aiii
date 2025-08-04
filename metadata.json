@@ -1,0 +1,7 @@
+{
+  "name": "Wake Word Assistant Trigger",
+  "description": "A web application that continuously listens for a user-defined wake-up phrase and simulates triggering a system assistant when the phrase is detected. It operates within the browser and requires microphone access to function.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
